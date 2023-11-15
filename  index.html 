@@ -1,0 +1,81 @@
+ <DOGTYPE html></DOGTYPE>
+ <html>
+    <html>
+        <div id="container"></div>
+        <style>
+            *{
+             
+            }
+         body{background:violet;
+        }
+       #container{
+          width:1200px;
+           margin: 0px auto;
+           border: 1px solid black;
+       }
+         header{
+             background: purple;
+             height: 150px;
+             width: 100%;
+             text-align: center:
+             line-height:150px;
+             color:magenta;
+             border-bottom:5px solid pink;
+         }
+         nav{
+             background:lightblue;
+             height:55px;
+             border:3px solid pink; 
+         }
+         nav ul li{
+        float: left;
+        list-style:none;
+        margin: 20px;}
+        #content{
+            float:left;
+            width:30%;
+            background: lightblue;
+            }
+            aside{
+                float:left;
+                background:lightblue}
+            }
+        }
+        article{
+        height:50px;
+        widty:50px;
+            background:lightblue;
+        }
+            
+        }
+        aside{
+            width:30px;
+        }
+        </style>
+        <head>
+            <title>Lostmedia</title>
+            <body>
+                <HEADER>
+                    <h1> LostMedia en el internet</h1>
+                    <nav>
+                        <ul> 
+                            <li></li>
+                        </ul>Esta pagina tiene como objetivo recopilar anecdotas de todo aquello material multimedia que fue perdido en la web</nav>
+                    <div class="clearfix"></div>
+                  
+                    </HEADER>
+                    <section id="content">
+                        
+                        <p> La "LostMedia" es todo contenido multimedia que fue danado, parcial o totalmente perdido</p></section>
+                        
+                    <article class="article"><h2>Material perdido encontrado recientemente</h2><p> *Screenshots de video y material de prueba de Shrek de Chris Farley*</p></article>
+                     <article class="article"</h2>Media</h2>
+                    <p>Material perdido disponible</p><p>Doblaje latino original de senorita cometa (totalmente perdido)</p><p> La elegante Sally "clockman" (recuperado)</p><p>Bolivar el heroe (parcialmente recuperado)</p></article>
+                    <aside>
+                        <h2>Mas informacion...</h2>*link a la pagina oficial "LostMediaWiki"*</aside>
+                          <div class="clearfix"></div>
+                    <FOOTER><p>Bricio Ochoa Jose Armando 2023</p> 
+                    </FOOTER>
+                    </body>
+                    </html>
+                 
